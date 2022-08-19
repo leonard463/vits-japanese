@@ -1,7 +1,7 @@
 {
   "train": {
-    "log_interval": 50,
-    "eval_interval": 500,
+    "log_interval": 100,
+    "eval_interval": 1000,
     "seed": 1234,
     "epochs": 10000,
     "learning_rate": 2e-4,
@@ -18,8 +18,8 @@
   },
   "data": {
     "training_files":"filelists/train_m.txt.cleaned",
-    "validation_files":"filelists/val_m.txt.cleaned",
-    "text_cleaners":["japanese_phrase_cleaners"],
+    "validation_files":"filelists/valid_m.txt.cleaned",
+    "text_cleaners":["japanese_cleaners"],
     "max_wav_value": 32768.0,
     "sampling_rate": 22050,
     "filter_length": 1024,
@@ -47,6 +47,10 @@
     "upsample_initial_channel": 512,
     "upsample_kernel_sizes": [16,16,4,4],
     "n_layers_q": 3,
-    "use_spectral_norm": false
-  }
+    "use_spectral_norm": false,
+    "gin_channels": 256
+  },
+ "speakers": ["\u9df9\u5009\u674f\u9234", "\u7dbe\u5730\u5be7\u3005", "\u3048\u307f", "\u30ec\u30ca", "\u4e09\u53f8\u3042\u3084\u305b", "\u660e\u65e5\u539f\u30e6\u30a6\u30ad"],
+  "symbols": ["_", ",", ".", "!", "?", "-", "A", "E", "I", "N", "O", "Q", "U", "a", "b", "d", "e", "f", "g", "h", "i", "j", "k", "m", "n", "o", "p", "r", "s", "t", "u", "v", "w", "y", "z", "\u0283", "\u02a7", "\u2193", "\u2191", " "]
+
 }

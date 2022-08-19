@@ -3488,7 +3488,7 @@
 /content/drive/MyDrive/data_asu/S004_D4_0023t.wav|5|あーふりかけで握っても良いかもなぁ。ねぇねぇ、どれにします？
 /content/drive/MyDrive/data_asu/S004_D4_0024t.wav|5|うん、よろしくね
 /content/drive/MyDrive/data_asu/S004_D4_0025t.wav|5|これね、ぜんぶお弁当
-/content/drive/MyDrive/data_asu/S004_D4_0026t.wav|5がんばって、お腹すかせといで
+/content/drive/MyDrive/data_asu/S004_D4_0026t.wav|5|がんばって、お腹すかせといで
 /content/drive/MyDrive/data_asu/S004_D4_0027t.wav|5|すいませーん、たくさん作るの時間かかっちゃって
 /content/drive/MyDrive/data_asu/S004_D4_0028t.wav|5|この恰好で場所取りしたんすか
 /content/drive/MyDrive/data_asu/S004_D4_0029t.wav|5|ちょちょ、ゆうちゃんの出る種目、どれっすか
@@ -5937,8 +5937,8 @@
 /content/drive/MyDrive/data_aya/aya201_022.wav|4|こんなものでしょうか。回収をお願いできますか？
 /content/drive/MyDrive/data_aya/aya201_023.wav|4|それに、あのまま続けていたら、私たちも筋肉痛で苦しむことになっていたかもしれませんから
 /content/drive/MyDrive/data_aya/aya201_024.wav|4|………
-/content/drive/MyDrive/data_aya/aya201_025|.wav|4|皆さん、今日は楽しかったですかー？
-/content/drive/MyDrive/data_aya/aya201_026|.wav|4|これが最後になりますが、盛り上がっていきましょう！
+/content/drive/MyDrive/data_aya/aya201_025.wav|4|皆さん、今日は楽しかったですかー？
+/content/drive/MyDrive/data_aya/aya201_026.wav|4|これが最後になりますが、盛り上がっていきましょう！
 /content/drive/MyDrive/data_aya/aya201_027.wav|4|こっちを見るな
 /content/drive/MyDrive/data_aya/aya201_028.wav|4|あ、ありがとうございます……
 /content/drive/MyDrive/data_aya/aya201_029.wav|4|……ありがとうございます、千咲さん。でも、私のことなら気にしないで下さい

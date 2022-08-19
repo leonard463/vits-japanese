@@ -2609,10 +2609,6 @@
 /content/drive/MyDrive/data_asu/S004_C5_0013.wav|5|ノブチがお茶こぼすから！
 /content/drive/MyDrive/data_asu/S004_C5_0014.wav|5|ノブチ
 /content/drive/MyDrive/data_asu/S004_C5_0015.wav|5|それは
-/content/drive/MyDrive/data_asu/S004_H100_0010.wav|5|ん？　ノブチから写メ送られてきた
-/content/drive/MyDrive/data_asu/S004_H100_0011.wav|5|わ、なにこれー。冷蔵庫からスイカがべちょべちょ出てるー
-/content/drive/MyDrive/data_asu/S004_C100_0001.wav|5|まーた有名人がドラッグで逮捕ですって
-/content/drive/MyDrive/data_asu/S004_C100_0002.wav|5|そしたら気持ちがわかるかも？
 /content/drive/MyDrive/data_asu/S004_B9_0001.wav|5|あ、未知パイ。今日も勉強っすか？
 /content/drive/MyDrive/data_asu/S004_B9_0002.wav|5|ノートに毎日カリカリ書いて。相変わらず勉強熱心っすね
 /content/drive/MyDrive/data_asu/S004_B9_0003.wav|5|日記？　そんなのつけてましたっけ
@@ -2638,14 +2634,6 @@
 /content/drive/MyDrive/data_asu/S004_B8_0016.wav|5|でも、別れ話でパトカー出しちゃうってインパクト大っすね
 /content/drive/MyDrive/data_asu/S004_B8_0017.wav|5|こらこら、ダメっすよ
 /content/drive/MyDrive/data_asu/S004_B8_0018.wav|5|ほら、男の仕事
-/content/drive/MyDrive/data_asu/S004_A100_0003.wav|5|お前かい！
-/content/drive/MyDrive/data_asu/S004_A100_0004.wav|5|何歳だい！
-/content/drive/MyDrive/data_asu/S004_A100_0005.wav|5|野菜かい！
-/content/drive/MyDrive/data_asu/S004_D100_0011.wav|5|でしょでしょー？
-/content/drive/MyDrive/data_asu/S004_D100_0012.wav|5|飼育員さんに、いじめられて……
-/content/drive/MyDrive/data_asu/S004_B100_0001.wav|5|なるほど。夏休み、しばらく人としゃべってないからボリュームが分かんないんすね
-/content/drive/MyDrive/data_asu/S004_B100_0002.wav|5|コミュニケーションしばらくとってないと、そうなりやすいって聞いたことある。おじいちゃんとかおばあちゃんとか
-/content/drive/MyDrive/data_asu/S004_B100_0003.wav|5|あはははは、ほんと、好きっすねー。あははははは
 /content/drive/MyDrive/data_asu/S004_A2_0001.wav|5|いやー、女の子ってね、喜ぶのは上手いんすよ
 /content/drive/MyDrive/data_asu/S004_A2_0002.wav|5|アタシわかります。喜ぶのはね、上手いんすよ
 /content/drive/MyDrive/data_asu/S004_A2_0003.wav|5|究極ね？　どんなギャグにも笑ってくれる女の子って、モテるんすよー
@@ -3701,15 +3689,6 @@
 /content/drive/MyDrive/data_asu/S004_D4_0106s.wav|5|いや、せっかくなんで作りましょう
 /content/drive/MyDrive/data_asu/S004_D4_0107s.wav|5|好きなものは甘いものって聞いてるんで、甘い梅干しなら食べられるはずです
 /content/drive/MyDrive/data_asu/S004_D4_0108s.wav|5|つまり、良い！　ってことっすね
-/content/drive/MyDrive/data_asu/S004_D100_0007.wav|5|高速道路
-/content/drive/MyDrive/data_asu/S004_D100_0008.wav|5|アタシが高速道路になったら
-/content/drive/MyDrive/data_asu/S004_D100_0009.wav|5|分け隔てせず、みんなを乗せてあげたいです
-/content/drive/MyDrive/data_asu/S004_D100_0010.wav|5|でも男子ってこういう不思議なこと言いそうな子が好きなんすよ
-/content/drive/MyDrive/data_asu/S004_D100_0005.wav|5|ねぇ、ラブホで勉強しない？
-/content/drive/MyDrive/data_asu/S004_D100_0001.wav|5|交差点で人を待ち続けられるのってすごくないっすか？
-/content/drive/MyDrive/data_asu/S004_D100_0002.wav|5|それは聖母
-/content/drive/MyDrive/data_asu/S004_D100_0003.wav|5|聖母２きた！　リーチ！　あとひとり揃えば１００万円！
-/content/drive/MyDrive/data_asu/S004_D100_0004.wav|5|逃したーー！！
 /content/drive/MyDrive/data_asu/S004_C7_0001.wav|5|見てください。新聞、降水確率０％っすよ
 /content/drive/MyDrive/data_asu/S004_C7_0002.wav|5|あごめんなさい全然わかんなかったっす
 /content/drive/MyDrive/data_asu/S004_C7_0003.wav|5|運動会の日とか？
@@ -3717,7 +3696,6 @@
 /content/drive/MyDrive/data_asu/S004_C7_0005.wav|5|早速っすけど、新聞を見てください
 /content/drive/MyDrive/data_asu/S004_C7_0006.wav|5|でも実は、近所の小学校で運動会があるんすよ
 /content/drive/MyDrive/data_asu/S004_C8_0001.wav|5|雨、やまないっすね
-/content/drive/MyDrive/data_asu/S004_D100_0006.wav|5|こなかったかー
 /content/drive/MyDrive/data_asu/S004_K1_0040.wav|5|まー、そうっすねー
 /content/drive/MyDrive/data_asu/S004_K1_0041.wav|5|あー、ムリかなっておもいまーす♪
 /content/drive/MyDrive/data_asu/S004_K1_0042.wav|5|アタシもよく言われますよ。手で抜いてとか、口でお願い、とか
@@ -4020,9 +3998,6 @@
 /content/drive/MyDrive/data_asu/S004_K2_0045.wav|5|これはいよいよ、行方不明ですかねぇ
 /content/drive/MyDrive/data_asu/S004_K2_0046.wav|5|やめやめ。なにこれ
 /content/drive/MyDrive/data_asu/S004_K2_0047.wav|5|ご覧のとおりですけど、うちには来てないですよ
-/content/drive/MyDrive/data_asu/S004_NT01_0001.wav|5|こんちわー！　花見、やってますかー！
-/content/drive/MyDrive/data_asu/S004_NT01_0002.wav|5|そうなんすよー、コンビニ終わったんで、こっからまた二軒目でーす！
-/content/drive/MyDrive/data_asu/S004_NT01_0003.wav|5|はーい、あとでまたくるんでー！！　どうせ長い時間いますよねー！
 /content/drive/MyDrive/data_asu/S004_neko_0001.wav|5|ノブチ、３Ｐしよ
 /content/drive/MyDrive/data_asu/S004_neko_0002.wav|5|さがそ
 /content/drive/MyDrive/data_asu/S004_neko_0003.wav|5|いた。田中ちゃんにしよ
@@ -4141,61 +4116,6 @@
 /content/drive/MyDrive/data_asu/S004_neko_0065.wav|5|鏡泊湖
 /content/drive/MyDrive/data_asu/S004_neko_0066.wav|5|キンタマーニ
 /content/drive/MyDrive/data_asu/S004_neko_0067.wav|5|コンドン村
-/content/drive/MyDrive/data_asu/S004_N100_0023.wav|5|おけ
-/content/drive/MyDrive/data_asu/S004_N100_0025.wav|5|じゃ！　未知パイと、お手洗い肝試しにいってきまーす！
-/content/drive/MyDrive/data_asu/S004_N100_0026.wav|5|じゃ、アタシが鏡の前までいきますね
-/content/drive/MyDrive/data_asu/S004_N100_0027.wav|5|で、鏡見ながら、あれ？　なんかこの鏡、変じゃないですか？
-/content/drive/MyDrive/data_asu/S004_N100_0028.wav|5|って言いますね
-/content/drive/MyDrive/data_asu/S004_N100_0029.wav|5|いやそれは嘘っしょ
-/content/drive/MyDrive/data_asu/S004_N100_0030.wav|5|……
-/content/drive/MyDrive/data_asu/S004_N100_0031.wav|5|……マジ？
-/content/drive/MyDrive/data_asu/S004_N100_0032.wav|5|廊下で待ってますんでー！　ノックノックー！
-/content/drive/MyDrive/data_asu/S004_N100_0033.wav|5|生きて帰ってきたら！　行列のできるスイーツ店行きましょうね！
-/content/drive/MyDrive/data_asu/S004_N100_0034.wav|5|あ
-/content/drive/MyDrive/data_asu/S004_N100_0035.wav|5|臓器、ないけど
-/content/drive/MyDrive/data_asu/S004_N100_0036.wav|5|そういえばそれ、未知パイの仕事じゃん
-/content/drive/MyDrive/data_asu/S004_N100_0037.wav|5|なんか言ってました？
-/content/drive/MyDrive/data_asu/S004_N100_0038.wav|5|ほう
-/content/drive/MyDrive/data_asu/S004_N100_0039.wav|5|わードクロがいっぱい！　なんだか博物館みたいっすね！
-/content/drive/MyDrive/data_asu/S004_N100_0040.wav|5|子ども２名で！
-/content/drive/MyDrive/data_asu/S004_N100_0042.wav|5|ＡＤさんの、僕が手を上げたら拍手してくださーい、に似てる！
-/content/drive/MyDrive/data_asu/S004_N100_0043.wav|5|パト……
-/content/drive/MyDrive/data_asu/S004_N100_0044.wav|5|そうっすよ、怪談怪談
-/content/drive/MyDrive/data_asu/S004_N100_0045.wav|5|恋人繋ぎじゃん
-/content/drive/MyDrive/data_asu/S004_N100_0046.wav|5|洗濯ものが死因なんてかわいそうっすよ！
-/content/drive/MyDrive/data_asu/S004_N100_0048.wav|5|うん普通に話が下手なやつ
-/content/drive/MyDrive/data_asu/S004_N100_0049.wav|5|しかも男子が一人盛り上がって女子に聞きたくない話延々として失敗する気流に今、上手く乗った
-/content/drive/MyDrive/data_asu/S004_N100_0050.wav|5|気づいてノラパイ！　カニじゃセンチメンタルになれないんです！
-/content/drive/MyDrive/data_asu/S004_N100_0051.wav|5|そう。そういう感じ。素直にいこ
-/content/drive/MyDrive/data_asu/S004_N100_0052.wav|5|ヤバい。あたしの知り合いのバカ度更新した
-/content/drive/MyDrive/data_asu/S004_N100_0053.wav|5|楽しかったからＯＫ！　だなんて言いたくないんやで！
-/content/drive/MyDrive/data_asu/S004_N100_0054.wav|5|うち！　明日もバイトなんやで！
-/content/drive/MyDrive/data_asu/S004_N100_0055.wav|5|ゆるす！
-/content/drive/MyDrive/data_asu/S004_N100_0056.wav|5|うまくあわせて！？　ヘッド！　弾いて？　おーっとオーバヘッド！
-/content/drive/MyDrive/data_asu/S004_N100_0058.wav|5|どうですかＭＶＰの反田選手！
-/content/drive/MyDrive/data_asu/S004_N100_0059.wav|5|パトじゃなくて！？　ありえる！
-/content/drive/MyDrive/data_asu/S004_N100_0060.wav|5|筋あっても、うまく笑えてない人もいますけど
-/content/drive/MyDrive/data_asu/S004_N100_0001.wav|5|え？　ドクロの機嫌とる話なんてレパートリーにないっすよ
-/content/drive/MyDrive/data_asu/S004_N100_0002.wav|5|いや、マジでないっす。しかも今バイトの休憩中だし
-/content/drive/MyDrive/data_asu/S004_N100_0003.wav|5|バイト終わったらでいいっすか？
-/content/drive/MyDrive/data_asu/S004_N100_0004.wav|5|え、ピンチ？　学校が？　ガイコツ？
-/content/drive/MyDrive/data_asu/S004_N100_0005.wav|5|最近あった話で成仏？　マジっすか？
-/content/drive/MyDrive/data_asu/S004_N100_0006.wav|5|なんでもいいんすか？
-/content/drive/MyDrive/data_asu/S004_N100_0007.wav|5|そうっすねぇ、あー、そうだ！
-/content/drive/MyDrive/data_asu/S004_N100_0008.wav|5|これは、この前あった話なんすけど
-/content/drive/MyDrive/data_asu/S004_N100_0009_ef.wav|5|あ！　はいはい！　ついでにいいですか、思いついちゃったんですけど！
-/content/drive/MyDrive/data_asu/S004_N100_0010_ef.wav|5|男子トイレとかけまして！　夜の学校ととく！
-/content/drive/MyDrive/data_asu/S004_N100_0011_ef.wav|5|どちらも、入ってはいけません
-/content/drive/MyDrive/data_asu/S004_N100_0012.wav|5|あーっ、いたいたー！
-/content/drive/MyDrive/data_asu/S004_N100_0013.wav|5|お待たせしましたーー！！
-/content/drive/MyDrive/data_asu/S004_N100_0014.wav|5|りょうかいでーーす！
-/content/drive/MyDrive/data_asu/S004_N100_0015.wav|5|未知パーーイ！　こっちこっちーー！！
-/content/drive/MyDrive/data_asu/S004_N100_0016.wav|5|来る途中、未知パイに会ったんで連れてきました
-/content/drive/MyDrive/data_asu/S004_N100_0017.wav|5|メンタルが迷子になってる
-/content/drive/MyDrive/data_asu/S004_N100_0018.wav|5|うちらアメリカ人でもねーべさ
-/content/drive/MyDrive/data_asu/S004_N100_0019.wav|5|賭博かい♪
-/content/drive/MyDrive/data_asu/S004_N100_0020.wav|5|未知パイ、一緒におトイレ行ってあげるから、どかーんと面白い話、おなしゃす
-/content/drive/MyDrive/data_asu/S004_N100_0021.wav|5|おけ
 /content/drive/MyDrive/data_asu/S004_K2_0048.wav|5|こらこら、だーめーだーぞー
 /content/drive/MyDrive/data_asu/S004_K2_0049.wav|5|どーどー。イジメはかっこわるいぞ
 /content/drive/MyDrive/data_asu/S004_K2_0050.wav|5|はいこれ、魚肉をやろう。バイトの余りだがすまんすまん
@@ -4227,8 +4147,6 @@
 /content/drive/MyDrive/data_asu/S004_K2_0076.wav|5|えぇっと、どれどれ？
 /content/drive/MyDrive/data_asu/S004_K2_0077.wav|5|あっ、オスだ
 /content/drive/MyDrive/data_asu/S004_K2_0078.wav|5|よかったね、モテモテで。あれ？　ぐったりしてる
-/content/drive/MyDrive/data_asu/S004_A100_0001.wav|5|イチジクの木が不倫していた
-/content/drive/MyDrive/data_asu/S004_A100_0002.wav|5|べっぴんだなんて。ぽ。コンブは頬が染まった
 /content/drive/MyDrive/data_asu/S004_B6_0001.wav|5|いやぁ、重いと思いますよ
 /content/drive/MyDrive/data_asu/S004_B6_0002.wav|5|だって未知パイ、真面目ですもん
 /content/drive/MyDrive/data_asu/S004_B6_0003.wav|5|自立してるっていうか、一人で生きていくっていうキャリアウーマンぽさ、みたいな印象、全然受けないんですよね
@@ -4457,12 +4375,6 @@
 /content/drive/MyDrive/data_asu/S004_C1_0010.wav|5|でも未知パイ。海って広いんですよ
 /content/drive/MyDrive/data_asu/S004_C1_0011.wav|5|もうツッコミもしないんすね
 /content/drive/MyDrive/data_asu/S004_C1_0012.wav|5|はいはいー、それじゃ、手をそろえて、いただきませんかー？
-/content/drive/MyDrive/data_asu/S004_F100_0001.wav|5|誰っすか！　姉パイに炭酸を飲ませた人！
-/content/drive/MyDrive/data_asu/S004_F100_0002.wav|5|大根
-/content/drive/MyDrive/data_asu/S004_E100_0001.wav|5|うんかわいかった
-/content/drive/MyDrive/data_asu/S004_F100_0003.wav|5|誰っすか！　炭酸飲ませた人！
-/content/drive/MyDrive/data_asu/S004_E100_0002.wav|5|確かに。でもネコだと、あんま気にならないかもっすね
-/content/drive/MyDrive/data_asu/S004_E100_0003.wav|5|なんて言ってます？　ノラパイ
 /content/drive/MyDrive/data_asu/S004_A6_0001.wav|5|共感ー
 /content/drive/MyDrive/data_asu/S004_A6_0002.wav|5|おっけー
 /content/drive/MyDrive/data_asu/S004_A6_0003.wav|5|きゃーっ、火事だよーっ、火事火事ー！　マジで火事ー！
@@ -4498,14 +4410,6 @@
 /content/drive/MyDrive/data_asu/S004_A5_0001.wav|5|普通？
 /content/drive/MyDrive/data_asu/S004_A5_0002.wav|5|いいじゃないっすか
 /content/drive/MyDrive/data_asu/S004_A5_0003.wav|5|それ、ノラパイが暗いからじゃないっすか？
-/content/drive/MyDrive/data_asu/S004_H100_0002.wav|5|おーーーー！！
-/content/drive/MyDrive/data_asu/S004_H100_0003.wav|5|毎日健康！
-/content/drive/MyDrive/data_asu/S004_H100_0004.wav|5|絶対零度でも、うちら、死なへんで！
-/content/drive/MyDrive/data_asu/S004_H100_0006.wav|5|おーーーー！！
-/content/drive/MyDrive/data_asu/S004_H100_0007.wav|5|買い手にアピール！
-/content/drive/MyDrive/data_asu/S004_H100_0008.wav|5|おばはん、なんぼもっとんの？　うち、リズム風ついとーよ？
-/content/drive/MyDrive/data_asu/S004_H100_0009.wav|5|おばはん、うちのことこーてーな
-/content/drive/MyDrive/data_asu/S004_H100_0001.wav|5|あーぱい治りました？　牛丼、すぺーす、牛丼で検索してしまう癖
 /content/drive/MyDrive/data_asu/S004_A9_0026.wav|5|そうなんすね、無事でよかったー
 /content/drive/MyDrive/data_asu/S004_A9_0027.wav|5|いやー、レベル高ーい
 /content/drive/MyDrive/data_asu/S004_A9_0028.wav|5|１００点！
@@ -4552,13 +4456,6 @@
 /content/drive/MyDrive/data_asu/S004_A8_0004.wav|5|ミスターノロケかよー♪
 /content/drive/MyDrive/data_asu/S004_A8_0005.wav|5|田中ちゃん？
 /content/drive/MyDrive/data_asu/S004_A8_0006.wav|5|バイトでいうと？
-/content/drive/MyDrive/data_asu/S004_F100_0004.wav|5|姉パイのＩカップ、さーわらーせてっ！　えいっ！
-/content/drive/MyDrive/data_asu/S004_F100_0005.wav|5|うわーっ、やわらかい！　なにはいってんすか！
-/content/drive/MyDrive/data_asu/S004_F100_0006.wav|5|えーなんだろう、これはねー
-/content/drive/MyDrive/data_asu/S004_F100_0007.wav|5|わかった！　これ！　脂肪だ！
-/content/drive/MyDrive/data_asu/S004_F100_0008.wav|5|やったーー！！
-/content/drive/MyDrive/data_asu/S004_F100_0010.wav|5|次回！　上履きにコッペパンを入れてくる女！
-/content/drive/MyDrive/data_asu/S004_F100_0011.wav|5|入れていいのは、ラブレターだけっすよ？
 /content/drive/MyDrive/data_asu/S004_D3_0001.wav|5|あ、服着てる
 /content/drive/MyDrive/data_asu/S004_D3_0002.wav|5|もしかして、えっ……マジっすか
 /content/drive/MyDrive/data_asu/S004_D3_0003.wav|5|けんぞく。ってなんでしたっけ
@@ -4784,11 +4681,6 @@
 /content/drive/MyDrive/data_asu/S004_D1_0080.wav|5|あはは、おなか減ってるのか？　さっき食べたでしょ？
 /content/drive/MyDrive/data_asu/S004_D1_0081.wav|5|あははっ、こらこら、くすぐったいよ
 /content/drive/MyDrive/data_asu/S004_D1_0082.wav|5|んっ、あんっ、んぅっ、こらこらぁ
-/content/drive/MyDrive/data_asu/S004_D100_0046.wav|5|こんな動物ヤだなぁ。どんな動物？
-/content/drive/MyDrive/data_asu/S004_D100_0047.wav|5|ハイお礼言うのはオオギリじゃないです！
-/content/drive/MyDrive/data_asu/S004_D100_0048.wav|5|地獄みたいなことになりそう
-/content/drive/MyDrive/data_asu/S004_D100_0049.wav|5|すんごい地獄だ焼け野原だ
-/content/drive/MyDrive/data_asu/S004_D100_0050.wav|5|どうしますノラパイ。これ問題もおかしいし答えも狂ってるし教えた人もバグってますよ
 /content/drive/MyDrive/data_asu/S004_D10_0001.wav|5|廊下、異常無ーし
 /content/drive/MyDrive/data_asu/S004_D10_0002.wav|5|そういう状況で？　彼氏とするの？　アタシ？　興奮のるつぼ？
 /content/drive/MyDrive/data_asu/S004_D10_0003.wav|5|はぁ！？　やだしやだし、ぜったいやだし！！
@@ -5021,22 +4913,6 @@
 /content/drive/MyDrive/data_asu/S004_D10_0230.wav|5|おしっこの話はいい！！　つかあのシミはアタシのじゃないです！
 /content/drive/MyDrive/data_asu/S004_D10_0231.wav|5|あんっ、い、今……？　今なの？　今抱き着くの？
 /content/drive/MyDrive/data_asu/S004_D10_0232.wav|5|えへへ、好き
-/content/drive/MyDrive/data_asu/S004_D100_0015.wav|5|まぁたクラクションで煽られちゃったよぉぉぉ
-/content/drive/MyDrive/data_asu/S004_D100_0016.wav|5|よし、ぼくらは、鳴き声でおしえよぉぉぉぉ
-/content/drive/MyDrive/data_asu/S004_D100_0018.wav|5|もう少しで、海老名インターだぁぁぁぉぉぉ
-/content/drive/MyDrive/data_asu/S004_D100_0019.wav|5|ごめんよぉぉ、軽を踏みつぶしてしまってぇぇぇぇ
-/content/drive/MyDrive/data_asu/S004_D100_0020.wav|5|海老名で買った、らぁぁめぇぇんあげるぅぅぅぅ
-/content/drive/MyDrive/data_asu/S004_D100_0039.wav|5|お客さんガラガラの動物園。どんな動物園？
-/content/drive/MyDrive/data_asu/S004_D100_0040.wav|5|こんな歯医者イヤだなぁ。どんな歯医者？
-/content/drive/MyDrive/data_asu/S004_D100_0041.wav|5|パトが先に答えましょ
-/content/drive/MyDrive/data_asu/S004_D100_0042.wav|5|こんな歯医者イヤだなぁ。どんな歯医者？
-/content/drive/MyDrive/data_asu/S004_D100_0043.wav|5|そう！　惜しい！　そうなんすけどね！　そのずるを上手くこう説明できたらやっとスタートラインといいますか！
-/content/drive/MyDrive/data_asu/S004_D100_0044.wav|5|じゃあ一旦姉パイのいうような問題やってみましょ。いきますよ？
-/content/drive/MyDrive/data_asu/S004_D100_0045.wav|5|もしお客さんが来ない歯医者があったとしたらアナタはどんな歯医者を想起し、どんな解決策を提示しますか？
-/content/drive/MyDrive/data_asu/S004_D100_0027.wav|5|アタシね？　体温計が鳴るまでの時間が好きだったんだ
-/content/drive/MyDrive/data_asu/S004_D100_0028.wav|5|世界がもう一度生まれ変わるんじゃないかって
-/content/drive/MyDrive/data_asu/S004_D100_0029.wav|5|それくらいの時間がそこには、たっぷりとあって
-/content/drive/MyDrive/data_asu/S004_D100_0030.wav|5|おそるべし、キャバクラの細客！
 /content/drive/MyDrive/data_asu/S004_D1_0001.wav|5|あっ、いたいたー。ノラパイ
 /content/drive/MyDrive/data_asu/S004_D1_0002.wav|5|ハイ、今日のは８００円ー
 /content/drive/MyDrive/data_asu/S004_D1_0003.wav|5|あっ、ご飯いきますか？
@@ -5092,19 +4968,6 @@
 /content/drive/MyDrive/data_asu/S004_D1_0053.wav|5|ネコ喫茶なんすよ。アタシのバイト先
 /content/drive/MyDrive/data_asu/S004_D1_0054.wav|5|そこの子が系列の他店舗いったり風邪だったりで、ほとんどいなくなっちゃって。今残ってるのが３匹なんすよねぇ
 /content/drive/MyDrive/data_asu/S004_D1_0055.wav|5|団体客も来る予定だしイベントもあるしで、いやー、参りましたよー。ネコの手でも借りたいくらい？　みたいな。あははは
-/content/drive/MyDrive/data_asu/S004_D100_0031.wav|5|それはねパト。地雷原をぐわーって走るみたいなことだから。本業の人に任せとかないと
-/content/drive/MyDrive/data_asu/S004_D100_0032.wav|5|あっ、えっと、ちがう、それはなんかちがう
-/content/drive/MyDrive/data_asu/S004_D100_0033.wav|5|あ、今のは答えじゃなくて、問題が変
-/content/drive/MyDrive/data_asu/S004_D100_0034.wav|5|ノラパイ！　例題！
-/content/drive/MyDrive/data_asu/S004_D100_0035.wav|5|はい！
-/content/drive/MyDrive/data_asu/S004_D100_0036.wav|5|全席立ち見！
-/content/drive/MyDrive/data_asu/S004_D100_0037.wav|5|次回！　大喜利を教える女ＶＳ教わる女！
-/content/drive/MyDrive/data_asu/S004_D100_0038.wav|5|説明って、難しいっすねぇ
-/content/drive/MyDrive/data_asu/S004_D100_0022.wav|5|これはコンビニバイトでの話なんすけど
-/content/drive/MyDrive/data_asu/S004_D100_0023.wav|5|レジ袋はなしで。ポイントカードあります。３８番のください、タバコ。支払いは電子で。公共料金は現金で
-/content/drive/MyDrive/data_asu/S004_D100_0024.wav|5|郵送の伝票。豚まんじゃない方の肉まんください。あやっぱレジ袋ください
-/content/drive/MyDrive/data_asu/S004_D100_0025.wav|5|かーーーーっ！！　頭バグるーーー！！　ってなるんすけど
-/content/drive/MyDrive/data_asu/S004_D100_0026.wav|5|でも翌日には普通に対応できるようになってるんすよね
 /content/drive/MyDrive/data_asu/S004_B2_0001.wav|5|しゃーせー
 /content/drive/MyDrive/data_asu/S004_B2_0002.wav|5|あ、未知パイ。今日も勉強ですか？
 /content/drive/MyDrive/data_asu/S004_B2_0003.wav|5|はい、どーぞ。いつものクリームソーダ
@@ -5281,9 +5144,6 @@
 /content/drive/MyDrive/data_asu/S004_B11_0002.wav|5|さぁ、今って何してるんすかね
 /content/drive/MyDrive/data_asu/S004_B11_0003.wav|5|それは引っ越すからじゃないんすか？
 /content/drive/MyDrive/data_asu/S004_B5_0051.wav|5|いたいた！　未知パーーイ！！
-/content/drive/MyDrive/data_asu/S004_B100_0004.wav|5|未知パイ。ちょっとだけね？　ボリュームをね？
-/content/drive/MyDrive/data_asu/S004_B100_0005.wav|5|おめでとーございまーす！！
-/content/drive/MyDrive/data_asu/S004_B100_0006.wav|5|いえーい！　未知パイが日記に書きそうなこと選手権優勝！！
 /content/drive/MyDrive/data_asu/S004_B10_0001.wav|5|そっかー、引っ越しちゃうんだー。寂しくなるなー
 /content/drive/MyDrive/data_asu/S004_B10_0002.wav|5|でもやっぱり急っすよね。普通は卒業するまで一緒にいそうなもんすけど
 /content/drive/MyDrive/data_asu/S004_B10_0003.wav|5|やっぱノラパイっていう彼氏が出来ちゃったからなんすかね
@@ -5302,33 +5162,6 @@
 /content/drive/MyDrive/data_asu/S004_B10_0016.wav|5|いいんすよ、ちょうど人足りなかったんで
 /content/drive/MyDrive/data_asu/S004_B10_0017.wav|5|まー猫だったらもっと歓迎でしたけどねー
 /content/drive/MyDrive/data_asu/S004_B10_0018.wav|5|なーんて、冗談ですよ。じゃ、閉店作業教えるんで、はい、こっちこっち
-/content/drive/MyDrive/data_asu/S004_I100_0002.wav|5|あ、ノエノエが本読んでる
-/content/drive/MyDrive/data_asu/S004_I100_0003.wav|5|論理って、なんでしたっけ
-/content/drive/MyDrive/data_asu/S004_I100_0004.wav|5|あ、おもしろそー
-/content/drive/MyDrive/data_asu/S004_I100_0005.wav|5|Ｃ！　Ｃの人がうそつき！
-/content/drive/MyDrive/data_asu/S004_HAN100_0016.wav|5|えもう！？
-/content/drive/MyDrive/data_asu/S004_HAN100_0018.wav|5|オッケー！
-/content/drive/MyDrive/data_asu/S004_I100_0001.wav|5|あ、さーせん、うしろお客さん並んでるんで
-/content/drive/MyDrive/data_asu/S004_I100_0006.wav|5|今度の文化祭、幽霊屋敷じゃなくて、脱出ゲームにしません？
-/content/drive/MyDrive/data_asu/S004_I100_0007.wav|5|えマジ？
-/content/drive/MyDrive/data_asu/S004_I100_0011.wav|5|ハッハッハッハ。そういうことだ
-/content/drive/MyDrive/data_asu/S004_I100_0012.wav|5|さぁ、人間よ。まずはパスワードを探しに行こう
-/content/drive/MyDrive/data_asu/S004_I100_0013.wav|5|私たちと一緒に
-/content/drive/MyDrive/data_asu/S004_I100_0014.wav|5|まずい、毒ガスだ。吸い込めば死ぬぞ
-/content/drive/MyDrive/data_asu/S004_I100_0015.wav|5|といってもこれは、ノラパイが近所のペットショップでもらってきた犬のヨダレのしみついた布団の匂いを使っている
-/content/drive/MyDrive/data_asu/S004_HAN100_0007.wav|5|アタシが考えた最強の１００！
-/content/drive/MyDrive/data_asu/S004_HAN100_0008.wav|5|はい！　１００００００円！　なんでも買えちゃう！
-/content/drive/MyDrive/data_asu/S004_HAN100_0010.wav|5|箱だし
-/content/drive/MyDrive/data_asu/S004_HAN100_0005.wav|5|それがもう怖くないっすか！？
-/content/drive/MyDrive/data_asu/S004_HAN100_0006.wav|5|ていうか数数えられない方が恐くない！？　３人いるし！
-/content/drive/MyDrive/data_asu/S004_HAN100_0011.wav|5|えもう！？
-/content/drive/MyDrive/data_asu/S004_HAN100_0013.wav|5|いやぁ、大きくなっちゃって
-/content/drive/MyDrive/data_asu/S004_HAN100_0014.wav|5|修学旅行で、好きな子の話はしましたか？
-/content/drive/MyDrive/data_asu/S004_HAN100_0015.wav|5|来年は中学生ですね！
-/content/drive/MyDrive/data_asu/S004_HAN100_0001.wav|5|百物語のことっすか？
-/content/drive/MyDrive/data_asu/S004_HAN100_0002.wav|5|そしてあーぱいは体重計に乗った
-/content/drive/MyDrive/data_asu/S004_HAN100_0003.wav|5|公園のことっすか
-/content/drive/MyDrive/data_asu/S004_HAN100_0004.wav|5|アタシも明日バイト早いんすよねー。そんじゃ！
 /content/drive/MyDrive/data_asu/S004_A10_0087.wav|5|うーす、おはーす、聞きました？
 /content/drive/MyDrive/data_asu/S004_A10_0088.wav|5|さぁ、何すかね
 /content/drive/MyDrive/data_asu/S004_A10_0089.wav|5|１００パーちげーし
@@ -9449,12 +9282,6 @@
 /content/drive/MyDrive/data_len/len417_077.wav|3|わたしの国のオーロラを……
 /content/drive/MyDrive/data_len/len417_078.wav|3|むー
 /content/drive/MyDrive/data_len/len417_079.wav|3|ヨシノ！　マコー、おはようございます！
-/content/drive/MyDrive/data_len/len006_001_ref.wav|3|はわーーーーーー！　ど、どいて下さーーーーーーーい！
-/content/drive/MyDrive/data_len/len011_030_ref.wav|3|ふぇぁ！？　な、なにがなにやら――
-/content/drive/MyDrive/data_len/len011_031_ref.wav|3|ひゃっ！？
-/content/drive/MyDrive/data_len/len414_119_ref.wav|3|ま……マサオミ？　マサオミッ！？
-/content/drive/MyDrive/data_len/len414_120_ref.wav|3|あたたたたたっ！？　な、なんですこれ、すごい痛いですっ
-/content/drive/MyDrive/data_len/len415_059_ref.wav|3|ちょ、ちょっとだけマサオミを借りてもいいでしょうか？
 /content/drive/MyDrive/data_len/len417_086.wav|3|誤解じゃないですのに！
 /content/drive/MyDrive/data_len/len417_087.wav|3|ヨバイしておきながら、指一本触れなかったりッ！！
 /content/drive/MyDrive/data_len/len417_088.wav|3|こういうとき、マサオミのことが……少し、嫌いになりますね
@@ -12603,52 +12430,52 @@
 /content/drive/MyDrive/data_nen/nen109_073.wav|1|……はい。いってきます
 /content/drive/MyDrive/data_nen/nen109_074.wav|1|………
 /content/drive/MyDrive/data_nen/nen110_001.wav|1|……はい。いってきます
-wav/kne110_001.wav|1|うっ……ぅぅぅんん……？
-wav/kne110_002.wav|1|この、部屋……昔の私の部屋……
-wav/kne110_003.wav|1|これ……それじゃあ本当に、夢じゃない……？
-wav/kne110_004.wav|1|本当に、こんなこと……まさか、あの姫松学院でのことが夢ということも―――
-wav/kne110_005.wav|1|これ……
-wav/kne110_006.wav|1|な、七緒？七緒ですか？
-wav/kne110_007.wav|1|でも……どうして、私の手の中に、欠片が……？私、過去に戻ったはずですよね……？
-wav/kne110_008.wav|1|メッセージ……
-wav/kne110_010.wav|1|……わかっている、つもりです
-wav/kne110_011.wav|1|色んな人の悩みを聞いて、柊史君と恋人になって……
-wav/kne110_012.wav|1|待つだけじゃダメなんですよね、以前の私みたいに思ってるだけじゃ何も変わらない
-wav/kne110_013.wav|1|ちゃんと、努力をしなきゃいけないんだって……ようやく、わかったような気がしているんです
-wav/kne110_014.wav|1|………
-wav/kne110_015.wav|1|はい、ありがとうございます
-wav/kne110_016.wav|1|あ……っ
-wav/kne110_017.wav|1|ちゃんと、ある。欠片はちゃんとある。それに……温かい。こうしてると、柊史君の温もりを思い出せるみたい……
-wav/kne110_018.wav|1|私は、本当に戻った……
-wav/kne110_019.wav|1|……戻ったんですね……
-wav/kne110_020.wav|1|………
-wav/kne110_021.wav|1|……ぅっ……ぅぅぅぅっ……
-wav/kne110_022.wav|1|ダメ……ちゃんと約束したのに、私……わたし、は……っ
-wav/kne110_023.wav|1|ぅっ、ぅぅぅっ……ぅぁっ、ふぇぇぇぇぁぁぁぁぁぁああああああっ
-wav/kne110_024.wav|1|………
-wav/kne110_025.wav|1|私は誓いました、幸せになるって。でも私が望んだのは……もっと温かいもの。今みたいな冷たいものじゃありません
-wav/kne110_026.wav|1|こんな……形だけにこだわった物じゃないんです……でも、それはもう……無理なんですよね
-wav/kne110_027.wav|1|２人はもう、一緒に幸せになるための努力をしていないんですから……それに……
-wav/kne110_028.wav|1|それに、離婚せずに今のまま、形だけの関係を続けるなら……未来が大きく変わってしまう
-wav/kne110_029.wav|1|もしかしたらそれが大きな影響をもたらして……あの人と出会うことができなくなる可能性も、皆無とは言えません
-wav/kne110_030.wav|1|……私は本当に、なんてバカだったんだろう……
-wav/kne110_031.wav|1|………
-wav/kne110_032.wav|1|お父さん、お母さん……
-wav/kne110_033.wav|1|話が……あるんです
-wav/kne110_034.wav|1|家の場所……聞いておくべきでした……
-wav/kne110_035.wav|1|本当、今さらになって思うことばっかりです……
-wav/kne110_036.wav|1|数年も……かかるんですね……
-wav/kne110_037.wav|1|いえ、なんでもありません
-wav/kne110_038.wav|1|……初めまして
-wav/kne110_039.wav|1|………
-wav/kne110_040.wav|1|私は………………私のお母さんは、１人だから……
-wav/kne110_041.wav|1|………
-wav/kne110_042.wav|1|……私は……
-wav/kne110_043.wav|1|私は、お父さんが本当に好きなら……いいと思いますよ
-wav/kne110_044.wav|1|はい。優しそうな人ですから
-wav/kne110_045.wav|1|よろしくお願いします
-wav/kne110_046.wav|1|おめでとう、お父さん
-wav/kne110_047.wav|1|おはよう……ございます
+/content/drive/MyDrive/data_nen/kne110_001.wav|1|うっ……ぅぅぅんん……？
+/content/drive/MyDrive/data_nen/kne110_002.wav|1|この、部屋……昔の私の部屋……
+/content/drive/MyDrive/data_nen/kne110_003.wav|1|これ……それじゃあ本当に、夢じゃない……？
+/content/drive/MyDrive/data_nen/kne110_004.wav|1|本当に、こんなこと……まさか、あの姫松学院でのことが夢ということも―――
+/content/drive/MyDrive/data_nen/kne110_005.wav|1|これ……
+/content/drive/MyDrive/data_nen/kne110_006.wav|1|な、七緒？七緒ですか？
+/content/drive/MyDrive/data_nen/kne110_007.wav|1|でも……どうして、私の手の中に、欠片が……？私、過去に戻ったはずですよね……？
+/content/drive/MyDrive/data_nen/kne110_008.wav|1|メッセージ……
+/content/drive/MyDrive/data_nen/kne110_010.wav|1|……わかっている、つもりです
+/content/drive/MyDrive/data_nen/kne110_011.wav|1|色んな人の悩みを聞いて、柊史君と恋人になって……
+/content/drive/MyDrive/data_nen/kne110_012.wav|1|待つだけじゃダメなんですよね、以前の私みたいに思ってるだけじゃ何も変わらない
+/content/drive/MyDrive/data_nen/kne110_013.wav|1|ちゃんと、努力をしなきゃいけないんだって……ようやく、わかったような気がしているんです
+/content/drive/MyDrive/data_nen/kne110_014.wav|1|………
+/content/drive/MyDrive/data_nen/kne110_015.wav|1|はい、ありがとうございます
+/content/drive/MyDrive/data_nen/kne110_016.wav|1|あ……っ
+/content/drive/MyDrive/data_nen/kne110_017.wav|1|ちゃんと、ある。欠片はちゃんとある。それに……温かい。こうしてると、柊史君の温もりを思い出せるみたい……
+/content/drive/MyDrive/data_nen/kne110_018.wav|1|私は、本当に戻った……
+/content/drive/MyDrive/data_nen/kne110_019.wav|1|……戻ったんですね……
+/content/drive/MyDrive/data_nen/kne110_020.wav|1|………
+/content/drive/MyDrive/data_nen/kne110_021.wav|1|……ぅっ……ぅぅぅぅっ……
+/content/drive/MyDrive/data_nen/kne110_022.wav|1|ダメ……ちゃんと約束したのに、私……わたし、は……っ
+/content/drive/MyDrive/data_nen/kne110_023.wav|1|ぅっ、ぅぅぅっ……ぅぁっ、ふぇぇぇぇぁぁぁぁぁぁああああああっ
+/content/drive/MyDrive/data_nen/kne110_024.wav|1|………
+/content/drive/MyDrive/data_nen/kne110_025.wav|1|私は誓いました、幸せになるって。でも私が望んだのは……もっと温かいもの。今みたいな冷たいものじゃありません
+/content/drive/MyDrive/data_nen/kne110_026.wav|1|こんな……形だけにこだわった物じゃないんです……でも、それはもう……無理なんですよね
+/content/drive/MyDrive/data_nen/kne110_027.wav|1|２人はもう、一緒に幸せになるための努力をしていないんですから……それに……
+/content/drive/MyDrive/data_nen/kne110_028.wav|1|それに、離婚せずに今のまま、形だけの関係を続けるなら……未来が大きく変わってしまう
+/content/drive/MyDrive/data_nen/kne110_029.wav|1|もしかしたらそれが大きな影響をもたらして……あの人と出会うことができなくなる可能性も、皆無とは言えません
+/content/drive/MyDrive/data_nen/kne110_030.wav|1|……私は本当に、なんてバカだったんだろう……
+/content/drive/MyDrive/data_nen/kne110_031.wav|1|………
+/content/drive/MyDrive/data_nen/kne110_032.wav|1|お父さん、お母さん……
+/content/drive/MyDrive/data_nen/kne110_033.wav|1|話が……あるんです
+/content/drive/MyDrive/data_nen/kne110_034.wav|1|家の場所……聞いておくべきでした……
+/content/drive/MyDrive/data_nen/kne110_035.wav|1|本当、今さらになって思うことばっかりです……
+/content/drive/MyDrive/data_nen/kne110_036.wav|1|数年も……かかるんですね……
+/content/drive/MyDrive/data_nen/kne110_037.wav|1|いえ、なんでもありません
+/content/drive/MyDrive/data_nen/kne110_038.wav|1|……初めまして
+/content/drive/MyDrive/data_nen/kne110_039.wav|1|………
+/content/drive/MyDrive/data_nen/kne110_040.wav|1|私は………………私のお母さんは、１人だから……
+/content/drive/MyDrive/data_nen/kne110_041.wav|1|………
+/content/drive/MyDrive/data_nen/kne110_042.wav|1|……私は……
+/content/drive/MyDrive/data_nen/kne110_043.wav|1|私は、お父さんが本当に好きなら……いいと思いますよ
+/content/drive/MyDrive/data_nen/kne110_044.wav|1|はい。優しそうな人ですから
+/content/drive/MyDrive/data_nen/kne110_045.wav|1|よろしくお願いします
+/content/drive/MyDrive/data_nen/kne110_046.wav|1|おめでとう、お父さん
+/content/drive/MyDrive/data_nen/kne110_047.wav|1|おはよう……ございます
 /content/drive/MyDrive/data_nen/nen110_002.wav|1|お父さん、今日はどこに行くんですか？
 /content/drive/MyDrive/data_nen/nen110_003.wav|1|……え？
 /content/drive/MyDrive/data_nen/nen110_004.wav|1|ひ、姫松学院っ。ずっと昔から決めてました、私は姫松学院に進学します
